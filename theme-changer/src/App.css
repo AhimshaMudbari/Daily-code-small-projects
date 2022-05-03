@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+button{
+  height: 30px;
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 20px;
+  background: lightblue;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(to bottom, rgb(230, 204, 204) ,rgb(130, 122, 247));
+}
